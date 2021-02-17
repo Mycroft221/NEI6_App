@@ -20,7 +20,9 @@
   "devDependencies": {},
   "cordova": {
     "plugins": {
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-wkwebview-engine": {},
+      "cordova-plugin-wkwebview-file-xhr": {}
     },
     "platforms": [
       "ios",
