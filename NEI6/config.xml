@@ -2,7 +2,7 @@
 <widget id="org.nei6.ios" version="1.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <icon src="apple-touch-icon.png" />
     <name>Trauma Intervention Prediction</name>
-    <content src="https://nei6.ddns.net/" />
+    <content src="https://tipredict.net/" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -10,7 +10,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="https://nei6.ddns.net/*" />
+    <allow-navigation href="*" />
     <platform name="android">
         <allow-intent href="market:*" />
         <preference name="android-targetSdkVersion" value="29" />
